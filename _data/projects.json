@@ -1,10 +1,9 @@
 [
 	{
-		"slug": "cool-project",
-		"name": "Cool project 1",
+		"slug": "stereo-vision-tracking",
+		"name": "Tracking of Ophthalmic Surgical Instruments using Stereo-Vision",
 		"image": "placeholder.jpg",
-		"url": "https://www.google.com",
-		"date": "Jan 2014",
+		"date": "Mar 2014",
 		"tags": ["Angular JS","API"]
 	},
 	{

@@ -1,9 +1,9 @@
-title: A Blog
+title: "Modal Curiosity"
 description: ""
 author: Mohamed Tarek El-Haddad
 github: https://github.com/mtarek
 about: I am a computer engineer from Cairo, Egypt. I'm currently pursuing a biomedical engineering PhD at Vanderbilt University in Nashville, TN. I build imaging systems for ophthalmology.
-disqus_shortname: stackproblems
+disqus_shortname: mtarek
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -16,19 +16,15 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/mtelhaddad"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/mtelhaddad"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/mtarek"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: mtelhaddad
   fb_appid: 1749788565247320
 
 urls:
