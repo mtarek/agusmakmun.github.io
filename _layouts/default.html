@@ -111,7 +111,7 @@ layout: compress
     </script>
   </head>
   <body>
-    <div class="container">
+    <div class="container-fluid">
       <div class="col-sm-3">
         <div class="fixed-condition">
           <a href="/"><img class="profile-avatar" src="{{ site.avatar_url }}" height="75px" width="75px" /></a>
@@ -148,12 +148,16 @@ layout: compress
         <footer>
           &copy; {{ site.author }}
           {% if site.github %}
-            - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by Jekyll.
+            - <a href="{{ site.github }}">{{ site.github }}</a>
           {% endif %}
+          <p>
+            Powered by Jekyll. Theme forked from <a href="https://github.com/agusmakmun/agusmakmun.github.io"> agusmakmun </a>.
+          </p>
           <div class="btn-github" style="float:right;">
-            <iframe src="https://ghbtns.com/github-btn.html?user=agusmakmun&repo=agusmakmun.github.io&type=star&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
-            <iframe src="https://ghbtns.com/github-btn.html?user=agusmakmun&repo=agusmakmun.github.io&type=fork&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
+            <!-- <iframe src="https://ghbtns.com/github-btn.html?user=mtarek&repo=mtarek.github.io&type=star&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe> -->
+            <iframe src="https://ghbtns.com/github-btn.html?user=mtarek&repo=mtarek.github.io&type=fork&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
           </div>
+          
         </footer>
       </div>
       <!-- end /.col-sm-8 -->

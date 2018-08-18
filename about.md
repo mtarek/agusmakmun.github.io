@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+I am a computer engineer from Cairo, Egypt. I'm currently pursuing a biomedical engineering PhD at Vanderbilt University in Nashville, TN, building imaging systems for ophthalmology.
 
-email: agus[at]python.web.id
+email: m[dot]haddad[at]vanderbilt[dot]edu

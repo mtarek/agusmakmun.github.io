@@ -2,40 +2,29 @@
 	{
 		"slug": "stereo-vision-tracking",
 		"name": "Tracking of Ophthalmic Surgical Instruments using Stereo-Vision",
-		"image": "placeholder.jpg",
+		"image": "stereo-vision/system.png",
 		"date": "Mar 2014",
-		"tags": ["Angular JS","API"]
+		"url": "https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-6-8-3014&id=323093",
+		"tags": ["OCT", "Tracking", "Computer Vision"]	
 	},
 	{
-		"name": "Cool project 2",
+		"name": "High-throughput multimodal imaging with SECTR",
+		"image": "sectr/cover.jpg",
+		"url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201700268",
+		"date": "Dec 2016",
+		"tags": ["High Throughput", "OCT", "Optical Design", "Reflectance"]
+	},
+	{
+		"name": "Characterization of full prescription of compound optical lenses",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "May 2014",
-		"tags": ["Python","Django"]
+		"date": "Mar 2018",
+		"tags": ["Reflectance","OCT","Reverse Engineering", "Characterization"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "Deep learning for tracking and adaptively-sampled SECTR",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","Django"]
-	},
-	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
-	},
-	{
-		"name": "Cool project 5",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
-	},
-	{
-		"name": "Cool project 6",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"date": "July 2018",
+		"tags": ["Deep Learning","Computer Vision", "Reflectance", "OCT", "Tracking"]
 	}
 ]

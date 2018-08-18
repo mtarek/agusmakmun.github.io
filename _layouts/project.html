@@ -8,7 +8,9 @@ layout: default
   </header>
 
   <div class="post-content">
+    <div class="text-align: justify">
     {{ content }}
+    </div>
 
     {% assign p_array = "" | split:"|"  %}
     {% for project in site.project %}

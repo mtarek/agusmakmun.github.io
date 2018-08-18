@@ -2,7 +2,7 @@ title: "Modal Curiosity"
 description: ""
 author: Mohamed Tarek El-Haddad
 github: https://github.com/mtarek
-about: I am a computer engineer from Cairo, Egypt. I'm currently pursuing a biomedical engineering PhD at Vanderbilt University in Nashville, TN. I build imaging systems for ophthalmology.
+about: I am a computer engineer from Cairo, Egypt. I'm currently pursuing a biomedical engineering PhD at Vanderbilt University in Nashville, TN, building imaging systems for ophthalmology.
 disqus_shortname: mtarek
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -30,7 +30,7 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
+    - text: Research Projects
       url: /projects/
     - text: XML Feed
       url: /feed.xml
